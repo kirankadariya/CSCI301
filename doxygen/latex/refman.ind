@@ -1,0 +1,27 @@
+\begin{theindex}
+
+  \item {$\sim$Array}
+    \subitem {Array}, \hyperpage{5}
+
+  \indexspace
+
+  \item {Array}, \hyperpage{5}
+    \subitem {$\sim$Array}, \hyperpage{5}
+    \subitem {Array}, \hyperpage{5}
+    \subitem {size}, \hyperpage{6}
+  \item {array.cpp}, \hyperpage{7}
+  \item {array.h}, \hyperpage{8}
+  \item {arraydriver.cpp}, \hyperpage{9}
+    \subitem {main}, \hyperpage{9}
+
+  \indexspace
+
+  \item {main}
+    \subitem {arraydriver.cpp}, \hyperpage{9}
+
+  \indexspace
+
+  \item {size}
+    \subitem {Array}, \hyperpage{6}
+
+\end{theindex}
